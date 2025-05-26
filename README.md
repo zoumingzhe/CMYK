@@ -1,2 +1,5 @@
 # CMYK
-Cyan Magenta Yellow Key
+
+> Cyan Magenta Yellow Key
+
+![CMYK](./CMYK.png)
